@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\bin\Debug\net5.0\Sistema de estoque.exe
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\bin\Debug\net5.0\Sistema de estoque.deps.json
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\bin\Debug\net5.0\Sistema de estoque.runtimeconfig.json
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\bin\Debug\net5.0\Sistema de estoque.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\bin\Debug\net5.0\Sistema de estoque.dll
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\bin\Debug\net5.0\Sistema de estoque.pdb
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\obj\Debug\net5.0\Sistema de estoque.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\obj\Debug\net5.0\Sistema de estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\obj\Debug\net5.0\Sistema de estoque.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\obj\Debug\net5.0\Sistema de estoque.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\obj\Debug\net5.0\Sistema de estoque.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\obj\Debug\net5.0\Sistema de estoque.dll
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\obj\Debug\net5.0\refint\Sistema de estoque.dll
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\obj\Debug\net5.0\Sistema de estoque.pdb
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\obj\Debug\net5.0\Sistema de estoque.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Udemy\Sistema de estoque\Sistema de estoque\obj\Debug\net5.0\ref\Sistema de estoque.dll

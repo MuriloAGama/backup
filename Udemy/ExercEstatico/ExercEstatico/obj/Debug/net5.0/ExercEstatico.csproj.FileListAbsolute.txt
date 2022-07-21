@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\bin\Debug\net5.0\ExercEstatico.exe
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\bin\Debug\net5.0\ExercEstatico.deps.json
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\bin\Debug\net5.0\ExercEstatico.runtimeconfig.json
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\bin\Debug\net5.0\ExercEstatico.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\bin\Debug\net5.0\ExercEstatico.dll
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\bin\Debug\net5.0\ExercEstatico.pdb
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\obj\Debug\net5.0\ExercEstatico.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\obj\Debug\net5.0\ExercEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\obj\Debug\net5.0\ExercEstatico.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\obj\Debug\net5.0\ExercEstatico.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\obj\Debug\net5.0\ExercEstatico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\obj\Debug\net5.0\ExercEstatico.dll
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\obj\Debug\net5.0\refint\ExercEstatico.dll
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\obj\Debug\net5.0\ExercEstatico.pdb
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\obj\Debug\net5.0\ExercEstatico.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Udemy\ExercEstatico\ExercEstatico\obj\Debug\net5.0\ref\ExercEstatico.dll

@@ -1,0 +1,111 @@
+#mnRegister {
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  background-color: #d1e099;
+}
+
+#mnRegister section {
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  background-color:#5b8866;
+  border-radius: 30px;
+  
+  
+}
+
+#mnRegister section article {
+  width: 100%;
+  height: 470px;
+}
+
+#mnRegister section #form_register{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color:white;
+  border-radius: 20px;
+}
+
+#mnRegister section #img2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #5b8866;
+  border-radius: 20px;
+}
+
+.imglogo{
+  width: 100px;
+  align-self: start;
+}
+
+#Iconback {
+  padding-right: 400px;
+  margin-bottom: -79px;
+}
+
+.text3{
+  color: #5b8866;
+  font-size: 25px;
+  border: 0;
+  margin-bottom: 0px;
+  margin: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-inline-start: 20px;
+  padding-top: 30px;
+  
+}
+
+.buttonRegister {
+
+  width: 150px;
+  color: black;
+  display: flex;
+  padding-left: 100px;
+
+}
+
+.buttons {
+  display: flex;
+  justify-content:space-around;
+  gap: 25px;
+}
+
+.buttons:hover {
+  color: darkseagreen;
+}
+
+.Icons{
+  gap: 30px;
+  
+}
+
+.ForgotThePass{
+  text-align:center ;
+  justify-content: center;
+  color: black; 
+}
+
+#img2 img{
+  width: 70%;
+}
+
+@media screen and (max-width:1023px) { 
+  #mnRegister section #img2{
+      display: none;
+  }
+}

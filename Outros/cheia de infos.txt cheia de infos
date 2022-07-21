@@ -1,0 +1,228 @@
+Oláaa! Me chamo Murilo tenho 21 anos,Sou apaixonado pela área da tecnologia, formado em ánalise e desenvolvimento de sistemas, 
+e cada vez mais empolgado em estudar sobre assuntos pertinentes a mesma. 
+
+Adoro desafios, coisas que me tiram da zona de conforto e
+
+Acredito muito na importância de contribuir na criação de soluções para problemas e necessidades, 
+transformando, otimizando e inovando processos, e para facilitar nestes quesitos conto com proatividade, trabalho em equipe, comunicação, 
+visão empreendedora entre outras.
+Atualmente me certificando como desenvolvedor .NET Fullstack focado em hard e softskills.
+Desde já agradeço!
+
+
+Tive uma experiência com Business Intelligence que ampliou muito minha visão analitica e tento aplicar isto no dia a dia. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GERENTE DE ALIANÇAS
+Empreendedor, motivado e focado em execução e resultados, capaz de formar e liderar equipes e trabalhar em time. 
+Dezoito anos de experiência em TI, trabalhando mais de 13 anos em empresas multinacionais. 
+Comecei como analista de suporte/executor de projetos, coordenador da equipe, gerente de vendas, 
+gerente de produto e agora gerente de canais e alianças. Experiência em desenvolvimento e implementação de estratégias de negócios e posicionamento de mercado por meio de canais e alianças. 
+Talento para o desenvolvimento de parceiros de negócios, desenvolvimento e implementação de soluções locais e globais, visando atratividade, competitividade, disponibilidade, rentabilidade e qualidade. Especialista em Tecnologia da Informação, 
+Gestão de Projetos, Pessoas e Mudanças, Gerenciamento de Problemas em Soluções de TI.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXPERIÊNCIA PROFISSIONAL 
+
+Red Hat Brasil – São Paulo 
+
+Gerente de Alianças 
+
+Responsável por aumentar a participação de mercado e crescimento sustentável dos negócios, estabelecendo alianças com: 
+* Integradores de Sistema: Accenture, Capgemini, Promonlogicalis e Stefanini 2014 – Presente 
+* IBM, Cisco e Integradores de Sistema selecionados: Algar, Accenture, Capgemini, Promon, Stefanini 2013 – 2014 
+* IBM e Datacenters selecionados: Algar, Ativas, Alog, Level 3, Tivit e UOL Diveo 2012 – 2013 
+* IBM, Cisco e SAP: América Latina 2011 – 2012 
+
+
+Principais Atividades: 
+Interagir com os executivos das unidades de negócios para entender os objetivos. Planejar e executar estratégias de negócios. Posicionar produtos e soluções para o mercado Brasil / América Latina. Planejar atividades de marketing e treinamento comercial. 
+
+
+Tarefas Associadas ao Cargo: 
+Estruturar a cadeia de valor: estratégia, concorrentes, mercado, vantagens, benefícios, demonstração e divulgação. Acompanhar e coordenar as atividades de treinamento e suporte às equipes das alianças, bem como prova de conceito. Realizar treinamento de vendas. Medir resultados. 
+
+
+Habilidades Associadas ao Cargo: 
+Capacidade analítica avançada. Gestão de projetos e pessoas. Facilidade de aprendizagem. Alto grau de curiosidade. Persistência. Criatividade e imaginação. Iniciativa e Liderança.
+
+
+
+
+
+
+
+
+
+            <Grid className='Grid1' container direction='row' justifyContent='center' alignItems='center'>
+                <Grid alignItems='center' xs={6}>
+                    <Box paddingX={20}>
+                        <form>
+                            <Typography variant='h3' gutterBottom component='h3' align='center' className='text2'> Entrar </Typography>
+                            <TextField id='user' label='E-mail' variant='outlined' name='user' margin='normal' fullWidth />
+                            <TextField id='password' label='Senha' variant='outlined' name='password' margin='normal' type='password' fullWidth />
+                            
+                            <Box className='MgLogin' >
+                                <p>
+                                    Esqueceu sua senha?
+                                </p>
+                            </Box>
+                            
+                            <Box marginTop={2} textAlign='center'>
+                                <Button className='ButtonLogin' type='submit' variant='contained'> Login </Button>
+                            </Box>
+                        </form>
+
+                        <Box display='flex' justifyContent='center' marginTop={2}>
+                            <Box marginRight={1}>
+                                <Typography variant='subtitle1' gutterBottom align='center'> Não tem uma conta ainda? </Typography>
+                            </Box>
+                        </Box>
+
+                        <Box borderBottom={1}>
+                            <Link to='/registeruser'>
+                                <Typography variant='subtitle1' gutterBottom align='center' className='texts1'> Cadastre-se </Typography>
+                            </Link>
+
+                            <p className='ForgotThePass'>Ou</p>
+                        </Box>
+
+                        <Box className='Icons' display='flex' justifyContent='center' marginTop={3}>
+                            <a href="" target="black" rel="noopener noreferrer">
+                                <GoogleIcon style={{ fontSize: 40, color: "red" }} />
+                            </a>
+
+                            <a href="" target="black" rel="noopener noreferrer">
+                                <FacebookIcon style={{ fontSize: 40, color: "blue" }} />
+                            </a>
+
+                            <a href="" target="black" rel="noopener noreferrer">
+                                <TwitterIcon style={{ fontSize: 40, color: "blue" }} />
+                            </a>
+                        </Box>
+                    </Box>
+                </Grid>
+                <Grid xs={6} className='image'>
+
+
+                </Grid>
+            </Grid>
+
+
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+
+.texts1{
+    font-weight: bold !important;
+    text-decoration: none;
+    
+    color: black;
+}
+
+.texts1:hover{
+    color:rgb(41, 145, 41);
+}
+
+.text2{
+    font-weight: bold !important;
+    text-decoration:solid;
+    color:rgb(85, 148, 85);
+    
+}
+
+.MgLogin{
+    margin: 0%;
+    margin-top: -20px;
+    font-size: 15px;
+}
+.MgLogin:hover{
+    color:rgb(41, 145, 41);
+}
+
+
+.image{
+    background-image: url(https://i.imgur.com/G5Vhf5L.png);
+    background-repeat: no-repeat;
+    width: 100vh;
+    height: 100vh; /* Fixed at 100vh to center */
+    background-size: 75%;
+    background-position: center;
+    border-radius: 0;
+    background-color: #5b8866;
+}
+
+.ButtonLogin{
+    width: 200px ;
+    height: 40px;
+    color: black;
+    background-color: aqua;
+    
+}
+
+.Icons{
+    gap: 30px;
+}
+
+.ForgotThePass{
+    text-align:center ;
+    justify-content: center;
+    color: black; 
+    
+}
+
+
+
+
+Pré-office
+Gerava cálculos de renovações de forma concisa, buscando facilitar a tratativa da área responsável por renovar as apólices.
+
+
+Gerência de operações - aprendiz
+Auxiliar equipes de vendas em dúvidas, e prestar suporte com dados para os supervisores atuarem em cima, visando aumento de produtividade e melhorar o absenteísmo.
+
+Business Intelligence
+Extração e manipulação de dados, com objetivo de gerar relatórios para tomada de decisões e acompanhamento de métricas, usando SQLServer, Excel etc
+
+https://dashboard.heroku.com/apps/greeniverse
+
+Projeto com modelo E-commerce, com intuito de atingir a problemática de fome zero e agricultura sustentável, visamos a otimização e facilidade de navegação com designs minimalistas , integrado com um sistema de moeda de troca que tem objetivo incentivar a doação, e diversas funcionalidades para   praticidade do usuário final.

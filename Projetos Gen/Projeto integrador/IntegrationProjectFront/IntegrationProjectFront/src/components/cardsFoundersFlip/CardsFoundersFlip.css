@@ -1,0 +1,69 @@
+.flip-container {
+  display: flex;
+  flex-direction: row !important;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px ;
+  height: 1000px;
+  perspective: 1000px;
+  background-color: #F6F6F6;
+  margin-bottom: 55px;
+}
+
+.flipper {
+  position: relative;
+  transition: transform 1s;
+  transform-style: preserve-3d;
+  max-width: 345px;
+  padding: 15px;
+  background-color: #FFF;
+  box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.685) !important;
+}
+
+
+.flipper:hover {
+  transform: rotateY(180deg);
+}
+
+.img-card{
+ width: 100px ;
+ height: 340px;
+}
+
+
+.front,
+.back {
+  position: absolute;
+  backface-visibility: hidden;
+}
+
+.back {
+  position: fixed !important;
+  top: 15%;
+  left: 0;
+  transform: rotateY(180deg);
+}
+
+.back2 {
+  font-size: 30px !important;
+  text-align: center;
+  align-items: center;
+}
+
+.card-name{
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+  align-items: center;
+}
+
+.back-icons{
+  display: flex;
+  align-items: center;
+  font-size: 75px !important;
+  color: var(--black);
+}
+
+.back-icons:hover {
+  color: var(--green);
+}

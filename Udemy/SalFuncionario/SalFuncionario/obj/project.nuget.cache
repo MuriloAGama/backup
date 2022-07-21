@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1nc2Lnc142ZV+5WkUbh2HtHZlx/YlEQM6ir6ECBQPUcyAWcDk1y7rd2anuAxbQV2z9hox7kKTk804GiUCmj9pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Udemy\\SalFuncionario\\SalFuncionario\\SalFuncionario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

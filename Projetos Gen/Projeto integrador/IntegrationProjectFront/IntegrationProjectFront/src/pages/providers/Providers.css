@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  transition: all .2s linear;
+}
+
+:root {
+  --green: #88A18E;
+  --black: #130f40;
+  --light-color: #666;
+  --box-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .1);
+  --border: .2rem solid rgba(0, 0, 0, .1);
+  --outline: .1rem solid rgba(0, 0, 0, .1);
+  --outline-hover: .2rem solid var(--black);
+}
+
+.provider-title {
+  background-color: #eee;
+  padding-top: 20px;
+  font-size: 30px;
+
+}
+
+.provider-title span {
+  color: var(--green);
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+.provider-body {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.provider-section {
+  background-color: #eee;
+}
+
+.provider-p {
+  background-color: #eee;
+  margin-top: 3%;
+}
+
+.provider-p2 {
+  background-color: #eee;
+  margin-top: 0%;
+  margin-bottom: 1%;
+}
+
+.provider-section form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.provider-section form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.provider-section form input {
+  margin: 10px;
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+  padding-left: 30px;
+  font-size: 14px;
+}
+
+.provider-section form textarea {
+  margin: 10px;
+  width: 400px;
+  height: 90px;
+  border-radius: 10px;
+  padding-left: 30px;
+  font-size: 14px;
+  margin-top: 15px;
+}
+
+.provider-section form button {
+  display: inline-block;
+  padding: 10px 30px;
+  font-size: 20px;
+  border-radius: 8px;
+  border: 2px solid var(--black);
+  color: var(--black);
+  cursor: pointer;
+  background: #fff;
+  margin-bottom: 15px;
+}
+
+.provider-section form button:hover {
+  background: var(--green);
+  color: #fff;
+}

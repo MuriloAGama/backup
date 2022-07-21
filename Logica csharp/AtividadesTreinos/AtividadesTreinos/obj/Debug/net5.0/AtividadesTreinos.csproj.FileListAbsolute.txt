@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\bin\Debug\net5.0\AtividadesTreinos.exe
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\bin\Debug\net5.0\AtividadesTreinos.deps.json
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\bin\Debug\net5.0\AtividadesTreinos.runtimeconfig.json
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\bin\Debug\net5.0\AtividadesTreinos.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\bin\Debug\net5.0\AtividadesTreinos.dll
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\bin\Debug\net5.0\AtividadesTreinos.pdb
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\obj\Debug\net5.0\AtividadesTreinos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\obj\Debug\net5.0\AtividadesTreinos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\obj\Debug\net5.0\AtividadesTreinos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\obj\Debug\net5.0\AtividadesTreinos.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\obj\Debug\net5.0\AtividadesTreinos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\obj\Debug\net5.0\AtividadesTreinos.dll
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\obj\Debug\net5.0\refint\AtividadesTreinos.dll
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\obj\Debug\net5.0\AtividadesTreinos.pdb
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\obj\Debug\net5.0\AtividadesTreinos.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Logica csharp\AtividadesTreinos\AtividadesTreinos\obj\Debug\net5.0\ref\AtividadesTreinos.dll

@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\bin\Debug\net5.0\SalFuncionario.exe
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\bin\Debug\net5.0\SalFuncionario.deps.json
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\bin\Debug\net5.0\SalFuncionario.runtimeconfig.json
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\bin\Debug\net5.0\SalFuncionario.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\bin\Debug\net5.0\SalFuncionario.dll
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\bin\Debug\net5.0\SalFuncionario.pdb
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\obj\Debug\net5.0\SalFuncionario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\obj\Debug\net5.0\SalFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\obj\Debug\net5.0\SalFuncionario.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\obj\Debug\net5.0\SalFuncionario.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\obj\Debug\net5.0\SalFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\obj\Debug\net5.0\SalFuncionario.dll
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\obj\Debug\net5.0\refint\SalFuncionario.dll
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\obj\Debug\net5.0\SalFuncionario.pdb
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\obj\Debug\net5.0\SalFuncionario.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Udemy\SalFuncionario\SalFuncionario\obj\Debug\net5.0\ref\SalFuncionario.dll

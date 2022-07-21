@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Mz7gwKjTtQxtibm38dDSfrW/3BEjGfgihwLpr8hxb4mYWJtoWD9TyfPDMXKlQXUHbny7m1KjoEZPuPAjJDK8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Udemy\\ExercEstatico\\ExercEstatico\\ExercEstatico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

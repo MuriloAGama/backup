@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cHFkDNywA52g8crJ4b2IHS8KYZ0JPKwcO1dyY1Md+NZRFHghEygyNUazuoKLEj0nYkNEyzFKmwM43VaCkwPznA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\MedicationControlSystem\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UhR1z7u4Ps/X97utiRAhjEfTgNDAnX8yfx5x8lbdQ6EJRPT2mlR9B+Q4MXiTQGvtGsz3D3sNckWuTmQwlCSfwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Logica csharp\\AtividadesTreinos\\AtividadesTreinos\\AtividadesTreinos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

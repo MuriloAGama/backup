@@ -1,0 +1,28 @@
+#paymentHead {
+    font-family: 'Poppins', sans-serif;  
+    box-sizing: border-box;
+    outline: none; 
+    border: none;
+    text-decoration: none;
+  }
+
+  #logo-payment {
+    background-color: #fff;
+    box-shadow: var(--box-shadow);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 26px;
+    font-weight: bolder;
+    color: var(--green);
+    padding: 20px 300px;
+
+  }
+
+.payment-img {
+    width: 50px;
+  }
+
+.modal{
+    padding-left: 400px;
+}

@@ -1,0 +1,55 @@
+Why (Por quê): Qual o propósito do desafio/solução? Por que ela precisa existir?
+
+What (O que): O que é a solução? O que a audiência precisa saber sobre isso?
+
+Who (Quem): Qual o público ao qual a solução de dedica? Quais os beneficiários?
+
+Where (Onde): Onde vai se passar o projeto? Estamos falando de cidades específicas, de um país?
+
+When (Quando): Qual o tempo para criar a solução? Quando será implementada? Por quanto tempo? Tem um prazo?
+
+How (Como): Como a solução será criada? Qual a metodologia? Existe algum processo ou caminho a ser seguido?
+
+How Much (Quanto): Quanto vai custar essa solução? Quais os recursos que serão utilizados? Podemos prever ou estimar?
+
+
+Meu nome é Murilo tenho 21 anos sou graduado em Analise e desenvolvimento de sistemas, 
+realizei o programa da generation de .NET fullstack ao qual me agregou no quesito tecnico e softs skills 
+para me desenvolver de forma eficaz no mercado, busco ingressar na industria tecnologica para 
+desenvolver soluções, otimizar processos que beneficiem todos envolvidos.
+
+--allow-unrelated-histories
+
+
+
+string Name;
+            int Weight;
+            float Height;
+            float Imc;
+
+
+            Console.WriteLine("Digite seu nome: ");
+            Name = Console.ReadLine();
+
+            Console.WriteLine("Digite seu peso: ");
+            Weight = Convert.ToInt32(Console.ReadLine();
+
+            Console.WriteLine("Digite sua altura: ");
+            Height = (float) Convert.ToDouble(Console.ReadLine();
+
+            Imc = Weight / (Height * Height)
+
+                if (Imc < 18,5) {
+                    Console.WriteLine("Olá! " + Name + " Sua massa muscular encontra-se na faixa Magreza ")
+            }
+                     else if (Imc > 18,5 && Imc < 24,9)
+                    Console.WriteLine("Olá! " + Name + " Sua massa muscular encontra-se na faixa Normal ")
+                {
+                     else (Imc > 25) 
+                    Console.WriteLine("Olá! " + Name + " Sua massa muscular encontra-se na faixa Sobrepeso ")
+
+
+
+Thamires Aparecida
+
+treinar fibonacci e torre de ranoi

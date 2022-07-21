@@ -1,0 +1,46 @@
+
+.banner{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url(../../../assets/img/banner-bg.webp) no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 160px;
+  padding-bottom: 60px;
+}
+
+
+.banner .content{
+
+  text-align: center;
+  width: 40rem;
+}
+
+
+.banner .content h3{
+
+  color: var(--black);
+  font-size: 36px;
+}
+
+
+.banner .content h3 span{
+  color: var(--green);
+}
+
+.banner .content h3 span{
+  color: var(--green);
+}
+
+#home .content p{
+
+  color: var(--light-color);
+  font-size: 16px;
+  padding: 1rem 0;
+  line-height: 1.8;
+}
+
+
+

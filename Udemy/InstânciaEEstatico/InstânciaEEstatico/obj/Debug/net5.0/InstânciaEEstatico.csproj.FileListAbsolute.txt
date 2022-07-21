@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\bin\Debug\net5.0\InstânciaEEstatico.exe
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\bin\Debug\net5.0\InstânciaEEstatico.deps.json
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\bin\Debug\net5.0\InstânciaEEstatico.runtimeconfig.json
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\bin\Debug\net5.0\InstânciaEEstatico.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\bin\Debug\net5.0\InstânciaEEstatico.dll
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\bin\Debug\net5.0\InstânciaEEstatico.pdb
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\obj\Debug\net5.0\InstânciaEEstatico.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\obj\Debug\net5.0\InstânciaEEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\obj\Debug\net5.0\InstânciaEEstatico.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\obj\Debug\net5.0\InstânciaEEstatico.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\obj\Debug\net5.0\InstânciaEEstatico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\obj\Debug\net5.0\InstânciaEEstatico.dll
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\obj\Debug\net5.0\refint\InstânciaEEstatico.dll
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\obj\Debug\net5.0\InstânciaEEstatico.pdb
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\obj\Debug\net5.0\InstânciaEEstatico.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Udemy\InstânciaEEstatico\InstânciaEEstatico\obj\Debug\net5.0\ref\InstânciaEEstatico.dll

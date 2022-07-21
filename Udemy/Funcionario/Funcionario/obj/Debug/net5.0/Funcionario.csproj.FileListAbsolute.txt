@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\bin\Debug\net5.0\Funcionario.exe
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\bin\Debug\net5.0\Funcionario.deps.json
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\bin\Debug\net5.0\Funcionario.runtimeconfig.json
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\bin\Debug\net5.0\Funcionario.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\bin\Debug\net5.0\Funcionario.dll
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\bin\Debug\net5.0\Funcionario.pdb
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\obj\Debug\net5.0\Funcionario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\obj\Debug\net5.0\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\obj\Debug\net5.0\Funcionario.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\obj\Debug\net5.0\Funcionario.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\obj\Debug\net5.0\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\obj\Debug\net5.0\Funcionario.dll
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\obj\Debug\net5.0\refint\Funcionario.dll
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\obj\Debug\net5.0\Funcionario.pdb
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\obj\Debug\net5.0\Funcionario.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Udemy\Funcionario\Funcionario\obj\Debug\net5.0\ref\Funcionario.dll

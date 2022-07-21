@@ -1,0 +1,137 @@
+:root {
+  --input-border: #3a456a;
+	--green: #88A18E;
+  --black:#130f40;
+  --light-color:#666;
+  --box-shadow:0 .5rem 1.5rem rgba(0,0,0,.1);
+  --border:.2rem solid rgba(0,0,0,.1);
+  --outline:.1rem solid rgba(0,0,0,.1);
+  --outline-hover:.2rem solid var(--black);
+}
+
+footer {
+  font-size: 16px;
+	background: white;
+  padding: 2em 4em;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  gap: 1em;
+  margin-top: 64px;
+}
+
+footer ul {
+  list-style: none;
+}
+
+.col {
+  flex: 1;
+}
+
+.col-title {
+  color: var(--green);
+  font-size: 1.1em;
+  font-weight: 500;
+  padding: 0.5em 0;
+}
+
+.col-list a {
+  color: var(--light-color);
+  text-decoration: none;
+  line-height: 1.4;
+  font-weight: 400;
+}
+
+.col-list a:hover,
+.col-list a:focus {
+  text-decoration: underline;
+}
+
+.subscribe-form,
+.social-media {
+  display: flex;
+  gap: 0.5em;
+  padding: 0.5em 0;
+}
+
+.subscribe_input{
+  width: 170px;
+  padding: 6px 7px;
+  font-size: 13px;
+  border-radius: 8px;
+  border: 2px solid var(--black);
+  color:var(--black);
+  cursor: pointer;
+  background: none;
+  
+}
+
+.subscribe_register:hover{
+  background: var(--green);
+  color: #fff;
+}
+
+.subscribe_register {
+  width: 100px;
+  flex: 1;
+  background: transparent;
+  border: 0.06em solid var(--black);
+  font-size: 1em;
+  font-weight: 500;
+  padding: 0.5em;
+  border-radius: 0.3em;
+  transition: all 0.25s ease 0s;
+  text-align: center;
+  color: black;
+  
+}
+
+.subscribe-input:focus {
+  outline: none;
+  border-color: var(--green);
+  color: var(--light-color);
+}
+
+
+.form-title,
+.social-col-title {
+  font-size: 1em;
+  color: var(--green);
+  font-weight: 500;
+}
+
+.social-media {
+  flex-direction: column;
+}
+
+.social-media-list {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.social-media-list a {
+  padding: 0.5em;
+  color: var(--black);
+  display: flex;
+  border-radius: 0.3em;
+  transition: all 0.25s ease 0s;
+}
+
+.social-media-list a:hover,
+.social-media-list a:focus {
+  color: white;
+  background: var(--green);
+}
+
+.social-media-list svg {
+  width: 1.5em;
+  height: 1.5em;
+  transition: all 0.25s ease 0s;
+}
+
+@media screen and (max-width: 750px) {
+  footer {
+    padding: 2em;
+    flex-direction: column;
+  }
+}

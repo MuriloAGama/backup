@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mMKuatKb6jVFW13nRR62OUJLjUz22eHXRBRBloSNjBX8kUt0EBC1v4qQoQtJP9YEqK2gDMttPT47uoHcXUQHvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Udemy\\InstânciaEEstatico\\InstânciaEEstatico\\InstânciaEEstatico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

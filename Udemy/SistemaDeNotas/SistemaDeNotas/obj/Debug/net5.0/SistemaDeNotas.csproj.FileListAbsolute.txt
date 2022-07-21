@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\obj\Debug\net5.0\SistemaDeNotas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\obj\Debug\net5.0\SistemaDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\obj\Debug\net5.0\SistemaDeNotas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\obj\Debug\net5.0\SistemaDeNotas.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\obj\Debug\net5.0\SistemaDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\bin\Debug\net5.0\SistemaDeNotas.exe
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\bin\Debug\net5.0\SistemaDeNotas.deps.json
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\bin\Debug\net5.0\SistemaDeNotas.runtimeconfig.json
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\bin\Debug\net5.0\SistemaDeNotas.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\bin\Debug\net5.0\SistemaDeNotas.dll
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\bin\Debug\net5.0\SistemaDeNotas.pdb
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\obj\Debug\net5.0\SistemaDeNotas.dll
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\obj\Debug\net5.0\refint\SistemaDeNotas.dll
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\obj\Debug\net5.0\SistemaDeNotas.pdb
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\obj\Debug\net5.0\SistemaDeNotas.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Udemy\SistemaDeNotas\SistemaDeNotas\obj\Debug\net5.0\ref\SistemaDeNotas.dll

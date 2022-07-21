@@ -1,0 +1,95 @@
+#mnId {
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    background-color: #d1e099;
+}
+
+#mnId section {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    background-color:#5b8866;
+    border-radius: 30px;
+}
+
+#mnId section article {
+    width: 100%;
+    height: 450px;
+}
+
+#mnId section #form_login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    border-radius: 20px;
+}
+
+#mnId section #imgLogin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #5b8866;
+    border-radius: 20px;
+}
+
+.imgLogoLogin{
+    width: 300px;
+    
+}
+
+#iconBack {
+    padding-right: 400px;
+    margin-top: -35px;
+    
+}
+
+.linkLogin{
+    margin-top: 20px;
+}
+
+.text2{
+    color: #5b8866;
+    font-size: 35px;
+}
+
+.buttonLogin {
+    margin-top: 25px;
+    width: 150px;
+    color: black;
+}
+
+.Icons{
+    gap: 40px;
+}
+
+.password-container #eye {
+    display: none;
+}
+
+.ForgotThePass{
+    text-align:center ;
+    justify-content: center;
+    color: black; 
+}
+
+#img img{
+    width: 70%;
+}
+
+@media screen and (max-width:1023px) { 
+    #mnId section #img{
+        display: none;
+    }
+}

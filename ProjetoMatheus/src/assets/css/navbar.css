@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+
+.navbar{
+    text-decoration: none;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.oi {
+    color: aqua;
+}
+
+.navbar ul {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul li {
+    float: left;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    width: 12%;
+    list-style: none;
+    text-align: center;
+}
+
+.navbar li a {
+    color: rgb(0, 102, 0);
+    text-decoration: none;
+}
+
+.imgLogo2 {
+    width: 100%;
+}
+
+#imgLogo{
+    width: 24%;
+}
+
+#blankSpace {
+    width: 16%;
+    height: 34px;
+}

@@ -1,0 +1,10 @@
+#about_main {
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F6F6F6;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
